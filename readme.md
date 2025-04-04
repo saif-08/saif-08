@@ -2,4 +2,3 @@
 saif
 # village
 dundlod
-nawalgarh
