@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **mdsaif4058@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** A STOCK TRADING PROJECT
+- 🔭 **I’m currently working on:** A VIDEO CONFRENCE AND CHAT APP
 - 🌱 **I’m currently learning:** FULL STACK WEB DEVELOPMENT
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mdsaif4058@gmail.com
